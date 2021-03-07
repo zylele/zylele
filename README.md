@@ -18,7 +18,6 @@
 
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
 Week: 27 February, 2021 - 06 March, 2021
 
