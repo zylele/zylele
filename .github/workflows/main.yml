@@ -15,7 +15,7 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           BLOG_RSS_LINK: https://zylele.github.io/atom.xml
-          BLOG_RSS_LIMT: 2
+          BLOG_LIMT: 2
           DOUBAN_NAME: znyalor
 
   update-wakatime:
