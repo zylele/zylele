@@ -9,10 +9,10 @@ on:
       - master
 
 jobs:
-  update-douban:
+  update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/douban-readme@master
+      - uses: zylele/social-readme@master
         with:
           BLOG_RSS_LINK: https://zylele.github.io/atom.xml
           BLOG_RSS_LIMT: 2
