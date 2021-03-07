@@ -50,11 +50,11 @@ Bash    49 mins         █░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>在看赘婿</a> - 2021-03-07
+* <a href='http://movie.douban.com/subject/27619748/' target='_blank'>看过唐人街探案3</a> - 2021-03-07
 * <a href='http://movie.douban.com/subject/24298954/' target='_blank'>看过疯狂原始人2</a> - 2021-02-25
 * <a href='http://movie.douban.com/subject/30171424/' target='_blank'>看过拆弹专家2</a> - 2021-02-25
 * <a href='http://movie.douban.com/subject/26357307/' target='_blank'>看过花木兰</a> - 2021-02-07
-* <a href='http://movie.douban.com/subject/34894753/' target='_blank'>看过沐浴之王</a> - 2021-02-04
-* <a href='http://movie.douban.com/subject/30122638/' target='_blank'>看过流金岁月</a> - 2021-01-16
 <!-- END_SECTION:douban -->
 </td>
 </tr>
