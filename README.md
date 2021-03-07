@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<table>
+<div style="width:auto;overflow:auto">
+<table style="width:auto">
 <tr>
 <td valign="top" width="50%">
 
@@ -8,10 +9,10 @@
 [![](https://img.shields.io/badge/dynamic/json?label=微博&suffix=%20粉丝&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D1694568584&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/1694568584/profile)
 [![](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=知乎&suffix=%20关注者&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dznyalor&longCache=true)](https://www.zhihu.com/people/znyalor)
 
-- :briefcase: Senior engineer of Tiktok E-C in Beijing, China.
-- :pencil2: Golang/Java/Shell, a little bit Python/JavaScript
-- :hammer_and_wrench: oh-my-zsh/JetBrains/GitHub Action/Sublime
-- :hearts: Microservice/FaaS/Reactive/The Art of Code
+- :briefcase: Senior engineer of Tiktok E-C.
+- :pencil2: Golang/Java/Python/JavaScript
+- :hammer_and_wrench: oh-my-zsh/JetBrains/workflow
+- :hearts: Microservice/FaaS/React/The Art of Code
 - :email: znyalor@gmail.com
 </td>
 <td valign="top" width="50%">
@@ -60,3 +61,4 @@ Bash    49 mins         █░░░░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
+</div>
