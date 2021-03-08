@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          BLOG_RSS_LINK: https://zylele.github.io/atom.xml
-          DOUBAN_NAME: znyalor
+          blog_rss_link: https://zylele.github.io/atom.xml
+          douban_name: znyalor
 
   update-wakatime:
     runs-on: ubuntu-latest
