@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 27 February, 2021 - 06 March, 2021
+Week: 28 February, 2021 - 07 March, 2021
 
 Other   6 hrs 29 mins  █████▒░░░░░░░░░░░░░░░░  24.87 %
 YAML    6 hrs 12 mins  █████▒░░░░░░░░░░░░░░░░  23.79 %
