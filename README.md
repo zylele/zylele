@@ -19,13 +19,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 10 March, 2021 - 17 March, 2021
+Week: 11 March, 2021 - 18 March, 2021
 
-Go          30 hrs 2 mins  ███████████████████▓░░  90.11 %
-Markdown    1 hr 31 mins   █░░░░░░░░░░░░░░░░░░░░░  04.59 %
-YAML        35 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.75 %
-Java        26 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.31 %
-Git Config  8 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.45 %
+Go        28 hrs         ███████████████████▒░░  88.09 %
+Markdown  1 hr 42 mins   █▒░░░░░░░░░░░░░░░░░░░░  05.38 %
+YAML      32 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.70 %
+Java      26 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.37 %
+Thrift    25 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.35 %
 ```
 <!--END_SECTION:waka-->
 </td>
