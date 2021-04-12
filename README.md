@@ -19,13 +19,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 April, 2021 - 10 April, 2021
+Week: 04 April, 2021 - 11 April, 2021
 
-Go        22 hrs 20 mins ████████████████▒░░░░░  74.76 %
-Other     3 hrs          ██▒░░░░░░░░░░░░░░░░░░░  10.08 %
-Thrift    2 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░  08.79 %
-Bash      40 mins        ▒░░░░░░░░░░░░░░░░░░░░░  02.27 %
-Markdown  24 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.39 %
+Go      30 hrs 4 mins  ███████████████████░░░  86.45 %
+Thrift  2 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░  08.13 %
+Bash    30 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.44 %
+Text    22 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.09 %
+Other   22 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.09 %
 ```
 <!--END_SECTION:waka-->
 </td>
