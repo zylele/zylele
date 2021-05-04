@@ -19,11 +19,11 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
-Go        25 hrs 59 mins █████████████████████▓  98.85 %
-Markdown  13 mins        ▒░░░░░░░░░░░░░░░░░░░░░  00.83 %
-JSON      4 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.26 %
+Go        19 hrs 50 mins █████████████████████▓  98.52 %
+Markdown  13 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.08 %
+JSON      4 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.34 %
 ```
 <!--END_SECTION:waka-->
 </td>
