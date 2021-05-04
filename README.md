@@ -47,11 +47,11 @@ JSON      4 mins         ░░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26826330/' target='_blank'>看过刺杀小说家</a> - 2021-05-04
 * <a href='http://movie.douban.com/subject/27198855/' target='_blank'>看过印度合伙人</a> - 2021-04-06
 * <a href='http://movie.douban.com/subject/26613692/' target='_blank'>看过哥斯拉大战金刚</a> - 2021-04-06
 * <a href='http://movie.douban.com/subject/35076714/' target='_blank'>看过扎克·施奈德版正义联盟</a> - 2021-03-21
 * <a href='http://movie.douban.com/subject/27619748/' target='_blank'>看过唐人街探案3</a> - 2021-03-07
-* <a href='http://movie.douban.com/subject/24298954/' target='_blank'>看过疯狂原始人2</a> - 2021-02-25
 <!-- END_SECTION:douban -->
 </td>
 </tr>
