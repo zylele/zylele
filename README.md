@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2021 - 28 May, 2021
+Week: 22 May, 2021 - 29 May, 2021
 
 Go          30 hrs 19 mins █████████████████████▓  99.04 %
 Thrift      9 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.54 %
