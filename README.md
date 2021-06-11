@@ -19,11 +19,11 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
+Week: 03 June, 2021 - 10 June, 2021
 
-Go        15 hrs 44 mins █████████████████████▒  96.59 %
-Markdown  21 mins        ▒░░░░░░░░░░░░░░░░░░░░░  02.22 %
-Other     6 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.66 %
+Go        16 hrs 18 mins █████████████████████▒  96.65 %
+Markdown  21 mins        ▒░░░░░░░░░░░░░░░░░░░░░  02.14 %
+Other     6 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.64 %
 Thrift    4 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.47 %
 ```
 <!--END_SECTION:waka-->
