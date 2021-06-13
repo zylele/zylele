@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2021 - 11 June, 2021
+Week: 05 June, 2021 - 12 June, 2021
 
 Go        13 hrs 45 mins ████████████████████▓░  94.02 %
 Markdown  21 mins        ▓░░░░░░░░░░░░░░░░░░░░░  02.47 %
