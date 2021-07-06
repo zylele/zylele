@@ -19,11 +19,12 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 27 June, 2021 - 04 July, 2021
+Week: 28 June, 2021 - 05 July, 2021
 
-Go          21 hrs 18 mins █████████████████████▓  97.94 %
-YAML        22 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.72 %
-Thrift      3 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.27 %
+Go          20 hrs 29 mins █████████████████████▒  97.45 %
+YAML        22 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.78 %
+Markdown    5 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.41 %
+Thrift      3 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.28 %
 ```
 <!--END_SECTION:waka-->
 </td>
