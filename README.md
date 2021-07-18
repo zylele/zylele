@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 09 July, 2021 - 16 July, 2021
+Week: 10 July, 2021 - 17 July, 2021
 
 Go          22 hrs 42 mins █████████████████████░  95.97 %
 Other       50 mins        ▓░░░░░░░░░░░░░░░░░░░░░  03.55 %
