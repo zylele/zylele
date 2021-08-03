@@ -45,11 +45,11 @@ Go          2 hrs 45 mins  █████████████████�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35268507/' target='_blank'>看过大决战</a> - 2021-08-02
 * <a href='http://movie.douban.com/subject/30331432/' target='_blank'>看过洛基 第一季</a> - 2021-07-17
 * <a href='http://movie.douban.com/subject/30228394/' target='_blank'>看过觉醒年代</a> - 2021-06-28
 * <a href='http://movie.douban.com/subject/27073752/' target='_blank'>看过神奇女侠1984</a> - 2021-06-18
 * <a href='http://movie.douban.com/subject/30367642/' target='_blank'>看过猎鹰与冬兵</a> - 2021-05-12
-* <a href='http://movie.douban.com/subject/26826330/' target='_blank'>看过刺杀小说家</a> - 2021-05-04
 <!-- END_SECTION:douban -->
 </td>
 </tr>
