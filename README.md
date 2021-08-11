@@ -49,11 +49,11 @@ Git Config  2 mins         ░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35058077/' target='_blank'>看过最后的前线</a> - 2021-08-11
 * <a href='http://movie.douban.com/subject/35288767/' target='_blank'>看过革命者</a> - 2021-08-08
 * <a href='http://movie.douban.com/subject/30466931/' target='_blank'>看过波斯语课</a> - 2021-08-08
 * <a href='http://movie.douban.com/subject/35268507/' target='_blank'>看过大决战</a> - 2021-08-02
 * <a href='http://movie.douban.com/subject/30331432/' target='_blank'>看过洛基 第一季</a> - 2021-07-17
-* <a href='http://movie.douban.com/subject/30228394/' target='_blank'>看过觉醒年代</a> - 2021-06-28
 <!-- END_SECTION:douban -->
 </td>
 </tr>
