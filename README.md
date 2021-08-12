@@ -19,13 +19,12 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2021 - 10 August, 2021
+Week: 04 August, 2021 - 11 August, 2021
 
-Go          10 hrs 2 mins  ████████████████████░░  90.83 %
-Markdown    42 mins        █▒░░░░░░░░░░░░░░░░░░░░  06.44 %
-Thrift      8 mins         ▒░░░░░░░░░░░░░░░░░░░░░  01.26 %
-YAML        6 mins         ▒░░░░░░░░░░░░░░░░░░░░░  00.92 %
-Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.35 %
+Go        9 hrs 48 mins  ████████████████████░░  90.95 %
+Markdown  42 mins        █▒░░░░░░░░░░░░░░░░░░░░  06.61 %
+Thrift    8 mins         ▒░░░░░░░░░░░░░░░░░░░░░  01.29 %
+YAML      6 mins         ▒░░░░░░░░░░░░░░░░░░░░░  00.95 %
 ```
 <!--END_SECTION:waka-->
 </td>
