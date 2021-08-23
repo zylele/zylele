@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 21 August, 2021
+Week: 15 August, 2021 - 22 August, 2021
 
 Go        11 hrs 5 mins  ████████████████████▒░  92.07 %
 Thrift    30 mins        █░░░░░░░░░░░░░░░░░░░░░  04.28 %
