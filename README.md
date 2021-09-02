@@ -19,13 +19,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2021 - 31 August, 2021
+Week: 25 August, 2021 - 01 September, 2021
 
-Go        4 hrs 45 mins  ███████████▓░░░░░░░░░░  53.76 %
-Other     3 hrs 55 mins  █████████▓░░░░░░░░░░░░  44.26 %
-Markdown  5 mins         ▒░░░░░░░░░░░░░░░░░░░░░  00.99 %
-Thrift    2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.42 %
-Python    2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.39 %
+Go        4 hrs 20 mins  ███████████▒░░░░░░░░░░  51.49 %
+Other     3 hrs 55 mins  ██████████▒░░░░░░░░░░░  46.44 %
+Markdown  5 mins         ▒░░░░░░░░░░░░░░░░░░░░░  01.04 %
+Thrift    2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.44 %
+Python    2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.41 %
 ```
 <!--END_SECTION:waka-->
 </td>
