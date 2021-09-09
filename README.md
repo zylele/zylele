@@ -19,9 +19,9 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 07 September, 2021
+Week: 01 September, 2021 - 08 September, 2021
 
-Go          11 hrs 9 mins  █████████████████████▒  97.32 %
+Go          11 hrs 8 mins  █████████████████████▒  97.32 %
 Other       13 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.93 %
 Git Config  4 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.61 %
 ```
