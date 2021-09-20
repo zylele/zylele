@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2021 - 18 September, 2021
+Week: 12 September, 2021 - 19 September, 2021
 
 Go        18 hrs 42 mins ████████████████████▓░  93.46 %
 Markdown  35 mins        ▓░░░░░░░░░░░░░░░░░░░░░  02.96 %
