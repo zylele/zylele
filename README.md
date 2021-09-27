@@ -19,11 +19,11 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2021 - 25 September, 2021
+Week: 19 September, 2021 - 26 September, 2021
 
-Go          11 hrs 34 mins █████████████████████▓  97.82 %
-Markdown    11 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.69 %
-YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.38 %
+Go          13 hrs 25 mins █████████████████████▓  98.12 %
+Markdown    11 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.46 %
+YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.33 %
 ```
 <!--END_SECTION:waka-->
 </td>
