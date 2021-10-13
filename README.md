@@ -19,7 +19,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 11 October, 2021
+Week: 05 October, 2021 - 12 October, 2021
 
 Go          9 hrs 24 mins  █████████████████████▓  98.79 %
 YAML        3 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.64 %
