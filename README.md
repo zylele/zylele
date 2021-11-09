@@ -19,10 +19,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 07 November, 2021
+Week: 01 November, 2021 - 08 November, 2021
 
-Go        22 hrs 5 mins  ██████████████████████  99.29 %
-Markdown  8 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.61 %
+Go          22 hrs 53 mins █████████████████████▓  98.58 %
+Markdown    18 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.36 %
 ```
 <!--END_SECTION:waka-->
 </td>
