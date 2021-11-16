@@ -46,11 +46,11 @@ Markdown    14 mins        ▒░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26897885/' target='_blank'>看过芬奇</a> - 2021-11-15
 * <a href='http://movie.douban.com/subject/34812928/' target='_blank'>看过鱿鱼游戏</a> - 2021-10-01
 * <a href='http://movie.douban.com/subject/1300374/' target='_blank'>看过绿里奇迹</a> - 2021-09-19
 * <a href='http://movie.douban.com/subject/35202793/' target='_blank'>看过扫黑风暴</a> - 2021-09-08
 * <a href='http://movie.douban.com/subject/30390701/' target='_blank'>看过阿波罗11号</a> - 2021-09-02
-* <a href='http://movie.douban.com/subject/10577869/' target='_blank'>看过时空恋旅人</a> - 2021-08-30
 <!-- END_SECTION:douban -->
 </td>
 </tr>
