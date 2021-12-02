@@ -4,9 +4,6 @@
 <tr>
 <td valign="middle" width="50%">
 
-[![](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzylele&labelColor=282c34&color=181717&logo=github&longCache=true)](https://github.com/zylele)
-[![](https://img.shields.io/badge/dynamic/json?label=微博&suffix=%20粉丝&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D1694568584&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/1694568584/profile)
-[![](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=知乎&suffix=%20关注者&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dznyalor&longCache=true)](https://www.zhihu.com/people/znyalor)
 
 :briefcase: Senior engineer of Tiktok E-C in Beijing, China.<br/>
 :pencil2: Golang/Java/Shell, a little bit Python/JavaScript<br/>
