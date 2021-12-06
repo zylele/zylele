@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2021 - 04 December, 2021
+Week: 28 November, 2021 - 05 December, 2021
 
 Go             7 hrs 46 mins  ██████████████▓░░░░░░░  66.93 %
 PlantUML file  3 hrs 44 mins  ███████░░░░░░░░░░░░░░░  32.19 %
