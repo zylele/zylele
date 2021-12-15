@@ -16,13 +16,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 13 December, 2021
+Week: 07 December, 2021 - 14 December, 2021
 
-Go             6 hrs 43 mins  █████████████▒░░░░░░░░  60.87 %
-PlantUML file  3 hrs 32 mins  ███████░░░░░░░░░░░░░░░  32.13 %
-Markdown       28 mins        █░░░░░░░░░░░░░░░░░░░░░  04.32 %
-Thrift         14 mins        ▒░░░░░░░░░░░░░░░░░░░░░  02.18 %
-YAML           1 min          ░░░░░░░░░░░░░░░░░░░░░░  00.29 %
+Go             6 hrs 2 mins   █████████████▒░░░░░░░░  60.44 %
+PlantUML file  3 hrs 10 mins  ███████░░░░░░░░░░░░░░░  31.82 %
+Markdown       28 mins        █░░░░░░░░░░░░░░░░░░░░░  04.78 %
+Thrift         14 mins        ▓░░░░░░░░░░░░░░░░░░░░░  02.40 %
+YAML           1 min          ░░░░░░░░░░░░░░░░░░░░░░  00.32 %
 ```
 <!--END_SECTION:waka-->
 </td>
