@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 18 December, 2021
+Week: 12 December, 2021 - 19 December, 2021
 
 Go        2 hrs 37 mins  ████████████████████▒░  92.57 %
 Markdown  9 mins         █▒░░░░░░░░░░░░░░░░░░░░  05.41 %
