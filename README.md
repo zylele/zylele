@@ -16,9 +16,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 20 December, 2021
+Week: 14 December, 2021 - 21 December, 2021
 
-Go             2 hrs 7 mins   ██████████████████████  99.91 %
+Go             2 hrs 4 mins   ████████████████▓░░░░░  75.70 %
+YAML           24 mins        ███▒░░░░░░░░░░░░░░░░░░  14.60 %
+go.mod         11 mins        █▓░░░░░░░░░░░░░░░░░░░░  06.92 %
+Shell Script   1 min          ▒░░░░░░░░░░░░░░░░░░░░░  01.00 %
+PlantUML file  1 min          ▒░░░░░░░░░░░░░░░░░░░░░  00.86 %
 ```
 <!--END_SECTION:waka-->
 </td>
