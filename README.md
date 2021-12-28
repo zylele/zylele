@@ -5,7 +5,7 @@
 <td valign="middle" width="50%">
 
 
-:briefcase: Senior engineer of Tiktok E-C in Beijing, China.<br/>
+:briefcase: Senior engineer of Tiktok E-C<br/>
 :pencil2: Golang/Java/Shell, a little bit Python/JavaScript<br/>
 :hammer_and_wrench: oh-my-zsh/JetBrains/Atom/GitHub Action<br/>
 :hearts: Microservice/FaaS/Reactive/The Art of Code<br/>
