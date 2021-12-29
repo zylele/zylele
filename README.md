@@ -16,13 +16,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 27 December, 2021
+Week: 21 December, 2021 - 28 December, 2021
 
-Go            1 hr 24 mins   ███████████▓░░░░░░░░░░  53.59 %
-Thrift        33 mins        ████▓░░░░░░░░░░░░░░░░░  21.19 %
-YAML          24 mins        ███▒░░░░░░░░░░░░░░░░░░  15.21 %
-go.mod        11 mins        █▓░░░░░░░░░░░░░░░░░░░░  07.21 %
-Shell Script  1 min          ▒░░░░░░░░░░░░░░░░░░░░░  01.04 %
+Go      1 hr 56 mins   █████████████████░░░░░  77.69 %
+Thrift  33 mins        █████░░░░░░░░░░░░░░░░░  22.31 %
 ```
 <!--END_SECTION:waka-->
 </td>
