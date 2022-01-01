@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 30 December, 2021
+Week: 24 December, 2021 - 31 December, 2021
 
 Go      5 hrs 53 mins  ████████████████████░░  91.32 %
 Thrift  33 mins        ██░░░░░░░░░░░░░░░░░░░░  08.66 %
