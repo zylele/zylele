@@ -43,11 +43,11 @@ Thrift  9 mins         ▒░░░░░░░░░░░░░░░░░░
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/25845392/' target='_blank'>看过长津湖</a> - 2022-01-04
 * <a href='http://movie.douban.com/subject/35470663/' target='_blank'>看过大学</a> - 2022-01-01
 * <a href='http://movie.douban.com/subject/35470753/' target='_blank'>看过1950他们正年轻</a> - 2021-12-30
 * <a href='http://movie.douban.com/subject/30394797/' target='_blank'>看过尚气与十环传奇</a> - 2021-12-28
 * <a href='http://movie.douban.com/subject/35437910/' target='_blank'>看过我们恋爱吧 第三季</a> - 2021-12-17
-* <a href='http://movie.douban.com/subject/35013741/' target='_blank'>看过我们恋爱吧 第二季</a> - 2021-12-17
 <!-- END_SECTION:douban -->
 </td>
 </tr>
