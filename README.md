@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 08 January, 2022
+Week: 02 January, 2022 - 09 January, 2022
 
 Go        13 hrs 39 mins ████████████████████▓░  93.69 %
 Thrift    51 mins        █▒░░░░░░░░░░░░░░░░░░░░  05.87 %
