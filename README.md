@@ -16,13 +16,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 12 January, 2022
+Week: 06 January, 2022 - 13 January, 2022
 
-Go      18 hrs 42 mins ████████████████████▒░  92.85 %
-Thrift  54 mins        █░░░░░░░░░░░░░░░░░░░░░  04.48 %
-XML     19 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.64 %
-Java    6 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.53 %
-go.mod  2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.24 %
+Go      21 hrs 12 mins █████████████████████░  94.82 %
+Thrift  37 mins        ▓░░░░░░░░░░░░░░░░░░░░░  02.81 %
+XML     19 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.48 %
+Java    6 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.48 %
+go.mod  2 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.18 %
 ```
 <!--END_SECTION:waka-->
 </td>
