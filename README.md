@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 14 January, 2022
+Week: 08 January, 2022 - 15 January, 2022
 
 Go      18 hrs 24 mins █████████████████████░  95.16 %
 XML     19 mins        ▒░░░░░░░░░░░░░░░░░░░░░  01.71 %
