@@ -46,11 +46,11 @@ Java    6 mins         ░░░░░░░░░░░░░░░░░░░
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/34865507/' target='_blank'>看过小人物</a> - 2022-01-17
 * <a href='http://movie.douban.com/subject/35205446/' target='_blank'>看过铁道英雄</a> - 2022-01-14
 * <a href='http://movie.douban.com/subject/26628357/' target='_blank'>看过一个叫欧维的男人决定去死</a> - 2022-01-07
 * <a href='http://movie.douban.com/subject/25845392/' target='_blank'>看过长津湖</a> - 2022-01-04
 * <a href='http://movie.douban.com/subject/35470663/' target='_blank'>看过大学</a> - 2022-01-01
-* <a href='http://movie.douban.com/subject/35470753/' target='_blank'>看过1950他们正年轻</a> - 2021-12-30
 <!-- END_SECTION:douban -->
 </td>
 </tr>
