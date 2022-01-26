@@ -45,11 +45,11 @@ Other     1 min          ░░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35332289/' target='_blank'>看过开端</a> - 2022-01-26
 * <a href='http://movie.douban.com/subject/26933210/' target='_blank'>看过蜘蛛侠：英雄无归</a> - 2022-01-25
 * <a href='http://movie.douban.com/subject/30337388/' target='_blank'>看过失控玩家</a> - 2022-01-22
 * <a href='http://movie.douban.com/subject/25798131/' target='_blank'>看过疾速追杀</a> - 2022-01-19
 * <a href='http://movie.douban.com/subject/34865507/' target='_blank'>看过小人物</a> - 2022-01-17
-* <a href='http://movie.douban.com/subject/35205446/' target='_blank'>看过铁道英雄</a> - 2022-01-14
 <!-- END_SECTION:douban -->
 </td>
 </tr>
