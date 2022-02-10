@@ -16,7 +16,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 09 February, 2022
+
+Go      3 hrs 10 mins  █████████████████████▓  98.84 %
+Thrift  1 min          ▒░░░░░░░░░░░░░░░░░░░░░  00.94 %
 ```
 <!--END_SECTION:waka-->
 </td>
