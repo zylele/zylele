@@ -45,11 +45,11 @@ go.mod    7 mins         ▒░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/30318116/' target='_blank'>想看利刃出鞘</a> - 2022-02-24
 * <a href='http://movie.douban.com/subject/35144311/' target='_blank'>看过雄狮少年</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/34803835/' target='_blank'>看过被遗忘的战役</a> - 2022-02-17
 * <a href='http://movie.douban.com/subject/26871906/' target='_blank'>看过灰猎犬号</a> - 2022-02-17
 * <a href='http://movie.douban.com/subject/24733428/' target='_blank'>看过心灵奇旅</a> - 2022-02-08
-* <a href='http://movie.douban.com/subject/35332289/' target='_blank'>看过开端</a> - 2022-01-26
 <!-- END_SECTION:douban -->
 </td>
 </tr>
