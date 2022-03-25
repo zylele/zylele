@@ -16,11 +16,11 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2022 - 23 March, 2022
+Week: 17 March, 2022 - 24 March, 2022
 
-Go        4 hrs 28 mins  ████████████████████▓░  94.11 %
-Thrift    13 mins        █░░░░░░░░░░░░░░░░░░░░░  04.65 %
-go.mod    2 mins         ▒░░░░░░░░░░░░░░░░░░░░░  00.90 %
+Go        6 hrs 29 mins  █████████████████████░  95.59 %
+Thrift    13 mins        ▓░░░░░░░░░░░░░░░░░░░░░  03.26 %
+go.mod    3 mins         ▒░░░░░░░░░░░░░░░░░░░░░  00.87 %
 ```
 <!--END_SECTION:waka-->
 </td>
