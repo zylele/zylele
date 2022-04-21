@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 12 April, 2022 - 19 April, 2022
+Week: 13 April, 2022 - 20 April, 2022
 
 Go        47 mins        █████████████████████▓  99.16 %
 ```
