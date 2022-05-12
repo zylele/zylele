@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2022 - 10 May, 2022
+Week: 04 May, 2022 - 11 May, 2022
 
 Go      2 hrs 25 mins  ████████████████████▒░  92.72 %
 Thrift  11 mins        █▓░░░░░░░░░░░░░░░░░░░░  07.28 %
