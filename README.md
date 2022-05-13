@@ -42,11 +42,11 @@ Go      1 hr 43 mins   ███████████████████
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1291577/' target='_blank'>看过超人总动员</a> - 2022-05-12
 * <a href='http://movie.douban.com/subject/35215390/' target='_blank'>看过狙击手</a> - 2022-04-05
 * <a href='http://movie.douban.com/subject/35376457/' target='_blank'>看过爱情神话</a> - 2022-03-31
 * <a href='http://movie.douban.com/subject/35284253/' target='_blank'>看过青春变形记</a> - 2022-03-31
 * <a href='http://movie.douban.com/subject/34874432/' target='_blank'>看过花束般的恋爱</a> - 2022-03-18
-* <a href='http://movie.douban.com/subject/30318116/' target='_blank'>想看利刃出鞘</a> - 2022-02-24
 <!-- END_SECTION:douban -->
 </td>
 </tr>
