@@ -16,7 +16,9 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 May, 2022 - 02 June, 2022
+
+Go  28 mins        ██████████████████████  100.00 %
 ```
 <!--END_SECTION:waka-->
 </td>
