@@ -16,13 +16,13 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2022 - 09 June, 2022
+Week: 03 June, 2022 - 10 June, 2022
 
-Go            6 hrs 38 mins  ███████████████████░░░  86.83 %
-Thrift        37 mins        █▓░░░░░░░░░░░░░░░░░░░░  08.26 %
-go.mod        19 mins        █░░░░░░░░░░░░░░░░░░░░░  04.23 %
-Markdown      1 min          ░░░░░░░░░░░░░░░░░░░░░░  00.34 %
-Shell Script  1 min          ░░░░░░░░░░░░░░░░░░░░░░  00.23 %
+Go            8 hrs 37 mins  ███████████████████▒░░  87.48 %
+Thrift        51 mins        ██░░░░░░░░░░░░░░░░░░░░  08.69 %
+go.mod        19 mins        ▓░░░░░░░░░░░░░░░░░░░░░  03.28 %
+Markdown      1 min          ░░░░░░░░░░░░░░░░░░░░░░  00.26 %
+Shell Script  1 min          ░░░░░░░░░░░░░░░░░░░░░░  00.18 %
 ```
 <!--END_SECTION:waka-->
 </td>
