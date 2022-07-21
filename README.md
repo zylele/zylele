@@ -16,9 +16,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 12 July, 2022 - 19 July, 2022
+Week: 13 July, 2022 - 20 July, 2022
 
-Go      8 hrs 1 min    ██████████████████████  99.73 %
+Go      8 hrs 51 mins  █████████████████████▓  99.02 %
+Thrift  3 mins         ░░░░░░░░░░░░░░░░░░░░░░  00.72 %
 ```
 <!--END_SECTION:waka-->
 </td>
