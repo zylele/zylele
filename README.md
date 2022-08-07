@@ -45,11 +45,11 @@ Text      1 min          ░░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26353671/' target='_blank'>看过明日战记</a> - 2022-08-06
 * <a href='http://movie.douban.com/subject/30304994/' target='_blank'>看过奇异博士2：疯狂多元宇宙</a> - 2022-06-26
 * <a href='http://movie.douban.com/subject/30382416/' target='_blank'>看过毒液2</a> - 2022-06-02
 * <a href='http://movie.douban.com/subject/30314848/' target='_blank'>看过瞬息全宇宙</a> - 2022-05-19
 * <a href='http://movie.douban.com/subject/1291577/' target='_blank'>看过超人总动员</a> - 2022-05-12
-* <a href='http://movie.douban.com/subject/35215390/' target='_blank'>看过狙击手</a> - 2022-04-05
 <!-- END_SECTION:douban -->
 </td>
 </tr>
