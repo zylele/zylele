@@ -16,7 +16,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2022 - 16 August, 2022
+Week: 10 August, 2022 - 17 August, 2022
 
 Go      9 hrs 53 mins  █████████████████████░  96.15 %
 go.mod  15 mins        ▓░░░░░░░░░░░░░░░░░░░░░  02.43 %
