@@ -16,9 +16,9 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2022 - 09 September, 2022
+Week: 03 September, 2022 - 10 September, 2022
 
-Go      2 hrs 5 mins   ██████████████████████  99.75 %
+Go      4 hrs 9 mins   ██████████████████████  99.97 %
 ```
 <!--END_SECTION:waka-->
 </td>
