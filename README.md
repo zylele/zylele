@@ -40,11 +40,11 @@ No Activity tracked this Week
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/30223888/' target='_blank'>看过永恒族</a> - 2022-11-14
 * <a href='http://movie.douban.com/subject/3042261/' target='_blank'>看过西线无战事</a> - 2022-11-13
 * <a href='http://movie.douban.com/subject/25828589/' target='_blank'>看过黑寡妇</a> - 2022-11-09
 * <a href='http://movie.douban.com/subject/35700395/' target='_blank'>看过坠落</a> - 2022-11-05
 * <a href='http://movie.douban.com/subject/34477861/' target='_blank'>看过雷神4：爱与雷霆</a> - 2022-10-26
-* <a href='http://movie.douban.com/subject/6893932/' target='_blank'>看过壮志凌云2：独行侠</a> - 2022-10-26
 <!-- END_SECTION:douban -->
 </td>
 </tr>
