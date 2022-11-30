@@ -1,24 +1,24 @@
 ### Hi there 👋
+<table width="960px">
 
-<table>
 <tr>
-<td valign="middle" width="50%">
-
-
-:briefcase: Senior engineer of Tiktok E-C<br/>
-:pencil2: Golang/Java/Shell, so-so Python/JavaScript<br/>
-:hammer_and_wrench: oh-my-zsh/JetBrains/Atom/GitHub Action<br/>
-:hearts: Microservice/FaaS/Reactive/The Art of Code<br/>
-:email: znyalor@gmail.com<br/>
-</td>
 <td valign="top" width="50%">
 
-#### :bar_chart: Weekly development breakdown
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+#### Hi，我是Eric，一个后端工程师，技术一般但喜欢折腾
+
+- :briefcase: Senior engineer of Tiktok E-C<br/>
+- :pencil2: Golang/Java/Shell, so-so Python/JavaScript<br/>
+- :hammer_and_wrench: oh-my-zsh/JetBrains/Atom/GitHub Action<br/>
+- :hearts: Microservice/FaaS/Reactive/The Art of Code<br/>
+- :email: znyalor@gmail.com<br/>
+</td>
+
+<td valign="top" width="50%">
+
+#### :bar_chart: 
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=zylele)](https://github.com/anuraghazra/github-readme-stats)
+
 </td>
 </tr>
 
