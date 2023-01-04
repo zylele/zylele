@@ -41,11 +41,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/34892096/' target='_blank'>看过我的三体之章北海传</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-25
-* <a href='http://movie.douban.com/subject/30272798/' target='_blank'>看过我的三体之罗辑传</a> 🌟🌟🌟🌟☆ 推荐- 2022-12-25
-* <a href='http://movie.douban.com/subject/27624727/' target='_blank'>看过我的三体</a> 🌟🌟🌟🌟☆ 推荐- 2022-12-25
-* <a href='http://movie.douban.com/subject/30285826/' target='_blank'>看过风骚律师 第五季</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-08
-* <a href='http://movie.douban.com/subject/27077785/' target='_blank'>看过风骚律师 第四季</a> 🌟🌟🌟🌟☆ 推荐- 2022-12-08
+
 <!-- END_SECTION:douban -->
 </td>
 </tr>
