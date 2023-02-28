@@ -38,7 +38,7 @@
   
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://www.douban.com/people/znyalor/" target="_blank">Funny Soul</a>
+#### 🤾‍♂️ <a href="https://movie.douban.com/people/znyalor/collect" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/26647087/' target='_blank'>看过三体</a> 🌟🌟🌟🌟☆ 推荐- 2023-02-15
