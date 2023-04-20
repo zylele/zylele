@@ -4,12 +4,12 @@
 <tr>
 <td valign="top" width="50%">
 
-#### Hi，我是Eric，一个后端工程师，技术一般但喜欢折腾
+#### Hi，我是Eric，一个低级架构师，技术一般但喜欢折腾
 
-- :briefcase: Senior engineer of Tiktok E-C<br/>
-- :pencil2: Golang/Java/Shell, so-so Python/JavaScript<br/>
-- :hammer_and_wrench: oh-my-zsh/JetBrains/Atom/GitHub Action<br/>
-- :hearts: Microservice/FaaS/Reactive/The Art of Code<br/>
+- :briefcase: Low level architect<br/>
+- :pencil2: Golang/Java/Shell/Python/JS<br/>
+- :hammer_and_wrench: omz/JetBrains/Atom/GitHub Action<br/>
+- :hearts: The Art of Code/Slasher<br/>
 - :email: znyalor@gmail.com<br/>
 </td>
 
