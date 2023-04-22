@@ -1,8 +1,7 @@
-### Hi there 👋
-<table width="960px">
-
+### Hi there 👋  
+<table  align="center" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 #### Hi，我是Eric，一个低级架构师，技术一般但喜欢折腾
 
@@ -11,9 +10,9 @@
 - :hammer_and_wrench: omz/JetBrains/Atom/GitHub Action<br/>
 - :hearts: The Art of Code/Slasher<br/>
 - :email: znyalor@gmail.com<br/>
-</td>
 
-<td valign="top" width="50%">
+</td>
+<td valign="top">
 
 #### 📈 一点微小的工作
 
@@ -23,7 +22,7 @@
 </tr>
 
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 #### 🤹‍♀️ <a href="https://zylele.github.io/" target="_blank">Recent Blog</a>
 
@@ -36,7 +35,7 @@
 <!-- END_SECTION:blog -->
 </td>
   
-<td valign="top" width="50%">
+<td valign="top">
 
 #### 🤾‍♂️ <a href="https://movie.douban.com/people/znyalor/collect" target="_blank">Funny Soul</a>
 
