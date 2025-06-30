@@ -40,11 +40,11 @@
 #### 🤾‍♂️ <a href="https://movie.douban.com/people/znyalor/collect" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/1300443/' target='_blank'>看过狂奔天涯</a> 🌟🌟🌟☆☆ 还行- 2025-06-25
-* <a href='https://movie.douban.com/subject/1306664/' target='_blank'>看过共同警备区</a> 🌟🌟🌟🌟☆ 推荐- 2025-06-16
-* <a href='https://movie.douban.com/subject/25860868/' target='_blank'>看过敲敲门</a> 🌟🌟🌟☆☆ 还行- 2025-06-16
-* <a href='https://movie.douban.com/subject/37096787/' target='_blank'>看过真爱营业</a> 🌟🌟☆☆☆ 较差- 2025-06-08
-* <a href='https://movie.douban.com/subject/1293090/' target='_blank'>看过赌王之王</a> 🌟🌟🌟☆☆ 还行- 2025-06-08
+* <a href='https://movie.douban.com/subject/1766086/' target='_blank'>看过太阳照常升起</a> 🌟🌟🌟🌟☆ 推荐- 2025-06-30
+* <a href='https://movie.douban.com/subject/1296015/' target='_blank'>看过运转手之恋</a> 🌟🌟🌟🌟☆ 推荐- 2025-06-30
+* <a href='https://movie.douban.com/subject/4176542/' target='_blank'>看过杀生</a> 🌟🌟🌟☆☆ 还行- 2025-06-30
+* <a href='https://movie.douban.com/subject/4009651/' target='_blank'>看过斗牛</a> 🌟🌟🌟🌟☆ 推荐- 2025-06-30
+* <a href='https://movie.douban.com/subject/35699773/' target='_blank'>看过杂种</a> 🌟🌟🌟🌟☆ 推荐- 2025-06-30
 <!-- END_SECTION:douban -->
 </td>
 </tr>
