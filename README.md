@@ -27,11 +27,11 @@
 #### 🤹‍♀️ <a href="https://zylele.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://zylele.github.io/2025/12/30/fin/2025/20251230/' target='_blank'>2025.12.30每日复盘</a> - 2025-12-30
 * <a href='https://zylele.github.io/2025/12/29/fin/2025/20251229/' target='_blank'>2025.12.29每日复盘</a> - 2025-12-29
 * <a href='https://zylele.github.io/2025/12/25/fin/2025/20251225/' target='_blank'>2025.12.25每日复盘</a> - 2025-12-25
 * <a href='https://zylele.github.io/2021/03/12/%E8%87%AA%E5%8A%A8%E6%9E%84%E5%BB%BA%E7%A4%BE%E4%BA%A4feed%E5%88%B0%E4%BD%A0%E7%9A%84%E4%B8%BB%E9%A1%B5/' target='_blank'>自动构建社交feed到你的主页</a> - 2021-03-12
 * <a href='https://zylele.github.io/2017/09/10/%E7%94%A8Travis%20CI%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2GitHub%E9%A1%B9%E7%9B%AE/' target='_blank'>用Travis CI自动部署GitHub项目</a> - 2017-09-10
-* <a href='https://zylele.github.io/2017/07/08/%E5%85%B3%E4%BA%8ESpring%20Boot%E4%B8%8EDubbo%20REST/' target='_blank'>关于Spring Boot与Dubbo REST</a> - 2017-07-08
 <!-- END_SECTION:blog -->
 </td>
   
