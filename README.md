@@ -27,11 +27,11 @@
 #### 🤹‍♀️ <a href="https://zylele.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://zylele.github.io/2026/01/12/fin/2026/20260112/' target='_blank'>2026.01.12复盘</a> - 2026-01-12
 * <a href='https://zylele.github.io/2026/01/09/fin/2026/20260109/' target='_blank'>2026.01.09复盘</a> - 2026-01-09
 * <a href='https://zylele.github.io/2025/12/30/fin/2025/20251230/' target='_blank'>2025.12.30每日复盘</a> - 2025-12-30
 * <a href='https://zylele.github.io/2025/12/29/fin/2025/20251229/' target='_blank'>2025.12.29每日复盘</a> - 2025-12-29
 * <a href='https://zylele.github.io/2025/12/25/fin/2025/20251225/' target='_blank'>2025.12.25每日复盘</a> - 2025-12-25
-* <a href='https://zylele.github.io/2021/03/12/%E8%87%AA%E5%8A%A8%E6%9E%84%E5%BB%BA%E7%A4%BE%E4%BA%A4feed%E5%88%B0%E4%BD%A0%E7%9A%84%E4%B8%BB%E9%A1%B5/' target='_blank'>自动构建社交feed到你的主页</a> - 2021-03-12
 <!-- END_SECTION:blog -->
 </td>
   
